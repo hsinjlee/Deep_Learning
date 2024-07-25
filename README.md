@@ -7,3 +7,5 @@
 # Convolutional Neural Networks
 
 # Recurrent Neural Networks
+
+# Self-Organizing Maps
